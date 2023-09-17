@@ -17,7 +17,7 @@
 				<configuration>
 					<warSourceDirectory>WebContent</warSourceDirectory>
 					<archive>
-						<manifestFile>WebContent/META-INF/MANIFEST.MF</manifestFile>
+						<manifestFile>src/META-INF/MANIFEST.MF</manifestFile>
 					</archive>
 				</configuration>
 			</plugin>
